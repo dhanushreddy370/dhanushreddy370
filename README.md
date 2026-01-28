@@ -15,9 +15,9 @@ I am a Software Developer passionate about **Autonomous AI Agents**, **Full-Stac
 
 ### 📈 Quant & Algorithmic Trading
 > *Experience developing high-frequency trading bots and backtesting engines.*
-- **Languages**: Python (Pandas, NumPy, SciPy), C++ (Low latency).
+- **Languages**: Python (Pandas, NumPy, SciPy).
 - **Analysis**: Time-series analysis, Statistical Modeling, proprietary indicator development.
-- **Infrastructure**: Websocket Data Streams, Exchange API integration (Binance/Bybit).
+- **Infrastructure**: Websocket Data Streams, Exchange API integration (MetaTrader5).
 - **Strategy**: Mean Reversion, Momentum Trading, Arbitrage.
 
 ### 💻 Full-Stack Development
