@@ -33,15 +33,10 @@ I am a Software Developer passionate about **Autonomous AI Agents**, **Full-Stac
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhanushreddy370&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="Dhanush's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushreddy370&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushreddy370&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=dhanushreddy370&icon=0&color=0" alt="Visitor Count" />
-</p>
