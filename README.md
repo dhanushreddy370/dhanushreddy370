@@ -105,19 +105,6 @@ dhanush = {
   Automation    │  PyAutoGUI · Selenium · Playwright
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## `$ cat ./stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanushreddy370&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=0077B5&text_color=aaaaaa&bg_color=0d1117)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushreddy370&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117)
-
-</div>
 
 ---
 
